@@ -87,7 +87,7 @@
 
 ![image](https://github.com/user-attachments/assets/65c044c8-48fc-4cef-8404-328a98477147)
 
-Это и подтверждает логи. Ошибка "the database system is in recovery mode" зачастую указывает на не хватку памяти, что и приводит к падению сервера. 
+Это и подтверждает логи. Ошибка "the database system is in recovery mode" зачастую указывает на не хватку памяти, что и приводит к падению сервера. [Отчёт](https://docs.google.com/document/d/1onuV1OqCRdTbGlPYUOcopbfN-krWk9Cu-RzS_w7KyIE/edit?usp=sharing)
 
 ![image](https://github.com/user-attachments/assets/0da3caab-ac97-49a2-8553-4cc9717c2b17)
 
