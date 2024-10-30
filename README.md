@@ -91,4 +91,6 @@
 
 ![image](https://github.com/user-attachments/assets/0da3caab-ac97-49a2-8553-4cc9717c2b17)
 
+Всего на выполение задания у меня ушло 5-6 часов.
+
 
